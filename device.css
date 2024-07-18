@@ -17,6 +17,57 @@
     margin: 1px auto;
     left: 440px;
 }
-#navigationbar ul li a {
-    
+#homepage .profileimg{
+    left: 820px;
+}
+#aboutpage .text2{
+    left: 250px;
+}   
+#aboutpage .aboutpages .text3{
+    top: 100px;
+    right: 100px;
+    font-size: 10px;
+}
+#aboutpage .aboutpages #text4{
+    font-size: 20px;
+}
+#aboutpage .aboutpages p{
+    font-size: 15px;
+    width: 350px;
+}
+#aboutskill .text5{
+    left: 300px;
+    top: -30px;
+}
+#aboutskill .aboutskills .text6 #text7{
+  font-size: 25px;
+  top: -400px;
+
+}
+#aboutskill .aboutskills .text6 p{
+    font-size: 16px;
+    left: 130px;
+    top: -390px;
+
+}
+#text9{
+    left: 300px;
+}
+#workpage .groups1{
+    left: 150px;
+    gap:10px;
+}
+#workpage .groups2{
+    left: 150px;
+    gap:10px;
+}
+
+#text10{
+    left: 300px;
+}
+#contactpage .contactform{
+   left: 300px;
+}
+#contactpage .contactform input, textarea{
+    width: 80%;
 }

@@ -1,0 +1,34 @@
+#homepage .profileimg{
+    left: 600px;
+    top: -300px
+}
+.logoimg2{
+    top: 170px;
+}
+#aboutpage .text2{
+    left: 290px;
+}   
+#aboutpage .aboutpages p{
+    font-size: 13px;
+    width: 350px;
+}
+#text9{
+    left: 340px;
+}
+#workpage .groups1{
+    left: 70px;
+    gap:10px;
+}
+#workpage .groups2{
+    left: 70px;
+    gap:10px;
+}
+#text10{
+    left: 340px;
+}
+#contactpage .contactform{
+   left: 340px;
+}
+#contactpage .contactform input, textarea{
+    width: 110%;
+}

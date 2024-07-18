@@ -1,0 +1,63 @@
+#navigationbar .logoimg {
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 160px;
+}
+#navigationbar ul li {
+    margin: 1px auto;
+    left: 330px;
+}
+#homepage .hometext #text1{
+    top: 50px;
+}
+#homepage .profileimg{
+    top: -400px;
+}
+#button1{
+    top: 80px;
+}
+.logoimg2{
+    top: 110px;
+}
+#aboutpage .text2{
+    left: 350px;
+    top: -10px;
+}   
+#aboutskill .text5{
+    left: 350px;
+    top: -30px;
+}
+#aboutpage .aboutpages p{
+    font-size: 15px;
+    width: 300px;
+
+}
+#aboutskill .aboutskills .text6 p{
+    width: 500px;
+
+}
+#aboutskill .aboutskills #profileimg3 img{
+    left: 700px;
+    height: 400px;
+}
+#text9{
+    left: 400px;
+}
+#workpage .groups1{
+    left: 70px;
+    gap:10px;
+}
+#workpage .groups2{
+    left: 70px;
+    gap:10px;
+}
+#text10{
+    left: 420px;
+}
+#contactpage .contactform{
+   left: 420px;
+}
+#contactpage .contactform input, textarea{
+    width: 180%;
+}
