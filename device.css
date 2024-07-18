@@ -1,0 +1,22 @@
+#navigationbar{
+    flex-direction: column;
+}
+#navigationbar .logoimg {
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 60px;
+}
+/* .logoimg h4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
+#navigationbar ul li {
+    margin: 1px auto;
+    left: 440px;
+}
+#navigationbar ul li a {
+    
+}
