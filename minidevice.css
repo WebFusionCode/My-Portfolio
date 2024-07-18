@@ -61,3 +61,11 @@
 #contactpage .contactform input, textarea{
     width: 180%;
 }
+#button2{
+    left: 0px;
+    width: 50%;
+  
+  }
+  #footer{
+    width: 350%;
+  }

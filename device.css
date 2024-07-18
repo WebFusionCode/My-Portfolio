@@ -71,3 +71,11 @@
 #contactpage .contactform input, textarea{
     width: 80%;
 }
+#button2{
+  left: 0px;
+  width: 20%;
+
+}
+#footer{
+    width: 180%;
+}
