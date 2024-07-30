@@ -271,6 +271,10 @@ left: 900px;
     height: 35px;
     padding: 4px;
     filter: invert(4%);
+    transition: 0.50s all;
+}
+.logoimg2 div img:hover{
+    transform: scale(1.5);
 }
 
 /* Span Animation  */
@@ -791,6 +795,10 @@ left: 900px;
     height: 40px;
     padding: 13px 13px;
     filter: invert(100%);
+    transition: 0.70s all;
+}
+#footer .socialmedia img:hover{
+    transform: scale(1.4);
 }
 #footer .copyright{
     display: flex;
