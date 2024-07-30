@@ -4,6 +4,7 @@
     padding: 0px;
     width: auto;
     scroll-behavior: smooth;
+    max-width: 1366px;
 }
 body{
     font-family: "Rubik", sans-serif;
@@ -30,7 +31,14 @@ body{
     /* filter: invert(100%); */
     border: 2px solid aquamarine;
     animation: logoimage 4s alternate;
+    transition: 0.70s all;
 }
+#navigationbar .logoimg img:hover{
+    transform: scale(1.5);
+    cursor: pointer;
+    
+}
+
 @keyframes logoimage{
     0%{
         transform: translateX(-200%);
@@ -75,11 +83,40 @@ animation: drop 3s forwards;
     list-style: none;
     display: inline-block;
     position: relative;
-    left: 550px;
+    left: 0px;
     padding: 11px; 
     margin: 16px;
     transition-duration: 0.70s;
 }
+#timedate{
+    font-size: 12px;
+    position: relative;
+    right: px;
+    font-weight: bold;
+    width: 502px;
+    /* background-color: rgba(128, 128, 128, 0.377);     */
+    /* backdrop-filter: blur(10px); */
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 15px;
+    /* border-bottom: 1px solid grey; */
+    /* border-top: 1px solid grey; */
+    color: black;
+    transition: 0.70s;
+    
+}   
+
+#timedate:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    border-color: black;
+    color: aqua;
+    background-color: rgb(0, 0, 0);
+    border-radius: 100px;
+
+
+}
+
 #navigationbar ul li:hover{
     background-color: rgba(255, 255, 255, 0.726);
     backdrop-filter: blur(10px)white;
