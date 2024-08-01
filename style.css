@@ -412,7 +412,7 @@ left: 900px;
     display: inline-block;
     position: relative;
     font-size: 30px;
-    top: -530px;
+    top: -480px;
     left: 130px;
 }
 #aboutskill .aboutskills .text6 p{
@@ -697,9 +697,10 @@ left: 900px;
     justify-content: center;
     align-items: center;
     top: 60px;
+    left: 260px;
 }
 #contactpage .contactform input, textarea{
-    width: 30%;
+    width: 50%;
     margin: 10px 10px;
     padding: 17px 0px ;
     border-radius: 7px;
@@ -709,6 +710,7 @@ left: 900px;
     caret-color: white;
     font-size: 20px;
     text-align: center;
+    align-items: center;
     transition: 0.70s;
 }
 #contactpage .contactform input:focus, textarea:focus{
@@ -732,13 +734,13 @@ left: 900px;
     position: relative;
     justify-content: center;
     align-items: center;
-    left: 140px;
-    top: 10px;
-    width:9%;
+    /* left: 140px; */
+    /* top: 10px; */
+    width:50%;
     margin: 10px 10px;
     padding: 10px 10px;
     border-radius: 7px;
-    background-color: grey;
+    background-color: rgb(128, 128, 128);
     border: 2px solid grey;
     color: white;
     transition: 0.40s;
