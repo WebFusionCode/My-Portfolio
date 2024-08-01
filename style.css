@@ -83,7 +83,7 @@ animation: drop 3s forwards;
     list-style: none;
     display: inline-block;
     position: relative;
-    left: 0px;
+    left: 550px;
     padding: 11px; 
     margin: 16px;
     transition-duration: 0.70s;
@@ -452,7 +452,7 @@ left: 900px;
         width: 0;
       }
       100% {
-        width: 77%;
+        width: 85%;
       }     
   }
 .progress-container1 {
@@ -482,7 +482,7 @@ left: 900px;
         width: 0;
       }
       100% {
-        width: 70%;
+        width: 80%;
       }     
   }
 .progress-container2 {
@@ -572,7 +572,7 @@ left: 900px;
         width: 0;
       }
       100% {
-        width: 0%;
+        width: 30%;
       }     
   }
 .progress-container5 {
@@ -602,7 +602,7 @@ left: 900px;
         width: 0;
       }
       100% {
-        width: 0%;
+        width: 40%;
       }     
   }
 
